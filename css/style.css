@@ -1,0 +1,135 @@
+header {
+    background-color: #dabdbd; /* Color gris para el encabezado */
+    color: white;
+    margin-top: -10px;
+    width: 102%;
+    margin:-10px;   
+}
+.navbar-nav{
+    text-decoration: none ;
+}
+.body{
+    font-family: "Roboto", sans-serif;
+}
+.foto-refugio{
+    margin-top: 0px;
+}
+ 
+.grid-conteiner{
+    grid-template-columns: auto auto auto auto ;
+    grid-template-rows:repeat(3,100px);
+}
+
+img{
+    width: 100%;
+    height: 50%;
+    padding: 10px;
+}
+
+
+.redes-sociales{
+    font-size: 100px;
+    text-align: center;
+}
+.perrito1{
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+    margin-top: 0px; 
+  }
+.perrito2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}  
+.caniche{
+    margin-top: 40px;
+}
+.border-collie{
+    margin-top: 40px;
+}
+.perrito3{
+    width: 200px;
+    height: 200px;
+   
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito4{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+
+.schnauzer{
+    margin-top: 40px;
+}
+
+.perrito5{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.corgi{
+    margin-top: 40px;
+}
+.perrito6{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito7{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito8{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito9{
+    width: 200px;
+    height: 200px;
+    
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito10{
+    width: 200px;
+    height: 200px;
+    
+    object-fit: cover;
+    margin-top: 0px; 
+}
+@media only screen and (max-width:500px){
+    body{
+        background-color: #7fff00;
+    }
+    img{
+          width: 50%;
+          border-radius: 50%;
+    }
+}
+
+@media only screen and (min-width:501px) and (max-width:960px){
+    body{
+        background-color: #e7a856;
+    }
+    img {
+        width: 70%;
+        border-radius: 30%;
+    }
+}
+@media only screen and (min-width:961px){
+    body{
+        background-color: rgb(115, 148, 238);
+    }
+   
+}

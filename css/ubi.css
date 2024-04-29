@@ -1,0 +1,119 @@
+ header {
+    background-color: #dabdbd; /* Color gris para el encabezado */
+    color: white;
+    margin-top: -10px;
+    width: 102%;
+    margin:-10px;   
+}
+
+.navbar-nav{
+    text-decoration: none ;
+}
+
+body{
+    background-color: rgb(115, 148, 238);
+}
+h1{
+    text-align: center;
+}
+.redes-sociales{
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.perros{
+    display: flex;
+}
+
+
+.perrito1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+  }
+
+.perrito2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}  
+.caniche{
+    margin-top: 40px;
+}
+.border-collie{
+    margin-top: 40px;
+}
+.perrito3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito4{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+
+.schnauzer{
+    margin-top: 40px;
+}
+
+.perrito5{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.corgi{
+    margin-top: 40px;
+}
+.perrito6{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito7{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito8{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito9{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+.perrito10{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0px; 
+}
+footer{
+    margin-top: 780px;
+}
